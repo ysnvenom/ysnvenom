@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Roboto+Mono:wght@500&family=Rubik:wght@500&family=Vina+Sans&display=swap');
+
+* {
+    all: unset;
+    display: revert;
+}
+
+body {
+    font-family: 'Vina Sans', sans-serif;
+    background-color: #000000;
+}
+
+.container {
+    max-width: 1500px;
+    margin: 0 auto;
+}
+
+.logo {
+    text-align: center;
+}
+
+.fut {
+    width: 700px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    margin-left: 420px;
+    margin-bottom: 70px;
+}
